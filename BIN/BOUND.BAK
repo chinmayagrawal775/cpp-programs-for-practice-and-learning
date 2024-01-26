@@ -1,0 +1,10 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int a[10];
+a[10]=10;
+//cout<<"a[10]=  "<<a[10];
+getch();
+}
